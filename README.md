@@ -32,8 +32,4 @@ Data Science senior at UCF · Ex-Chubb DS Intern · Building ML systems for spor
 **ML/Libraries:** XGBoost · scikit-learn · pandas · NumPy · Optuna · LangChain · Lumibot  
 **Tools:** Databricks · Snowflake · AWS · Power BI · Power Automate · Git · Azure  
 
----
 
-## 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalv2&show_icons=true&theme=default&hide=contribs)

@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm David Alvarado 👋
 
-<!--
-**davidalv2/davidalv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science senior at UCF · Ex-Chubb DS Intern · Building ML systems for sports & finance
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidalvars-blue?logo=linkedin)](https://linkedin.com/in/davidalvars)
+[![GitHub](https://img.shields.io/badge/GitHub-davidalv2-black?logo=github)](https://github.com/davidalv2)
+📍 Orlando, FL | 📧 da833290@ucf.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### ⚾ MLB AI Game Outcome Predictor
+> XGBoost + Optuna pipeline trained on 7,127 games and 2.1M Statcast pitches  
+> **0.629 ROC-AUC** — outperforms Vegas sportsbook implied baseline (~0.570)  
+> [`github.com/davidalv2/mlb-predictor`](https://github.com/davidalv2/mlb-predictor)
+
+### 📈 Algorithmic Trading Bot
+> 4 backtested strategies: momentum, trend-following, statistical arbitrage, buy & hold  
+> Built with Python, Lumibot, and Alpaca API · Momentum strategy: ~70% annualized return  
+> [`github.com/davidalv2/algo-trading-bot`](https://github.com/davidalv2/algo-trading-bot)
+
+### 🤖 NASA X-RASSOR Rover Project *(in progress)*
+> LLM-based layer (LangChain) for natural language querying of rover telemetry data  
+> Telemetry analysis under simulated 3-second communication delay
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · SQL · R · C  
+**ML/Libraries:** XGBoost · scikit-learn · pandas · NumPy · Optuna · LangChain · Lumibot  
+**Tools:** Databricks · Snowflake · AWS · Power BI · Power Automate · Git · Azure  
+
+---
+
+## 📊 GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalv2&show_icons=true&theme=default&hide=contribs)
